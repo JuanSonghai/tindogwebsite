@@ -1,1 +1,1 @@
-TinDog Project Made. Got the idea/template from a Udemy Course.
+TinDog Project Made. Got the idea from a course on Udemy
